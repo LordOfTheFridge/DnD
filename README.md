@@ -2,6 +2,7 @@
 ### Стартовые персонажи
 
 ![Bard](https://i.pinimg.com/originals/75/27/f0/7527f02ba9d796ac8c1b70d26bbb3aaa.jpg)
+
 [Бард (артист-дипломат)](https://github.com/RomanDAnoshin/DnD/blob/main/%D0%A1%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B8/%D0%91%D0%B0%D1%80%D0%B4%20(%D0%B0%D1%80%D1%82%D0%B8%D1%81%D1%82-%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0%D1%82).md "Бард (артист-дипломат)")
 
 [Варвар (племенной дикарь)](https://github.com/RomanDAnoshin/DnD/blob/main/%D0%A1%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B8/%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%20(%D0%BF%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B4%D0%B8%D0%BA%D0%B0%D1%80%D1%8C).md "Варвар (племенной дикарь)")
