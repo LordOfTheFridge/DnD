@@ -19,6 +19,8 @@
 
 ------------
 
+![Monk](https://i.pinimg.com/originals/f0/c5/e2/f0c5e27b0451848390d555f27b782840.jpg)
+
 [Монах (Шаолинь)](https://github.com/RomanDAnoshin/DnD/blob/main/%D0%A1%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B8/%D0%9C%D0%BE%D0%BD%D0%B0%D1%85%20(%D0%A8%D0%B0%D0%BE%D0%BB%D0%B8%D0%BD%D1%8C).md "Монах (Шаолинь)")
 
 ------------
