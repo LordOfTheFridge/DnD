@@ -1,4 +1,9 @@
 # Оглавление
+### Как придумать своего персонажа?
+Позже распишу, а пока могу лишь оставить ссылочку на чужой гайд.
+
+https://www.youtube.com/watch?v=JukWrkh2Nsc
+
 ### Стартовые персонажи
 
 ![Bard](https://i.pinimg.com/originals/75/27/f0/7527f02ba9d796ac8c1b70d26bbb3aaa.jpg)
